@@ -378,6 +378,9 @@ main {
   margin-top: 70px;
   margin-bottom: 70px;
 }
+.mywork-title{
+  text-align: center;
+}
 
 @media screen and (max-width: 680px) {
   .mywork {
